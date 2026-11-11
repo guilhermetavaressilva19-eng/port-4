@@ -579,3 +579,28 @@ if (document.readyState === "loading") {
 } else {
   iniciarSite();
 }
+  },
+  {
+    id: 9,
+    titulo: "Da diversão ao endividamento: efeitos socioeconômicos das bets na vida de jovens brasileiros",
+    texto: `Atualmente, as apostas esportivas online, conhecidas como bets, estão cada vez mais presentes na vida dos jovens brasileiros. Entretanto, o que começa como diversão pode se transformar em um problema financeiro e social, principalmente pela falta de informação sobre os riscos dessas plataformas.
+
+Um dos principais problemas é a facilidade de acesso às apostas, que incentiva os jovens adultos a gastarem dinheiro na esperança de conseguir lucros rápidos. Com isso, muitos acabam perdendo suas economias e acumulando dívidas, prejudicando sua qualidade de vida.
+
+Além disso, a divulgação das bets por influenciadores digitais contribui para a normalização das apostas. Muitas propagandas mostram apenas possíveis ganhos, sem destacar os riscos de perdas financeiras e dependência, influenciando o comportamento dos jovens.
+
+Portanto, o Governo Federal deve intensificar a fiscalização das plataformas de apostas e promover campanhas educativas nas escolas e redes sociais. Essas ações devem conscientizar os jovens sobre os riscos financeiros e psicológicos das bets, a fim de reduzir o endividamento e construir uma sociedade mais responsável financeiramente.`
+  },
+  {
+    id: 10,
+    titulo: "Inclusão digital no Brasil: caminhos e desafios na sociedade contemporânea",
+    texto: `Atualmente, a tecnologia está cada vez mais presente na sociedade brasileira, sendo essencial para a educação, o trabalho e a comunicação. Entretanto, muitas pessoas ainda enfrentam dificuldades para acessar a internet, o que aumenta a desigualdade social no país.
+
+Um dos principais desafios é a falta de infraestrutura tecnológica em regiões rurais e comunidades de baixa renda. Muitas famílias não possuem internet de qualidade ou equipamentos adequados, dificultando o acesso à informação e às oportunidades.
+
+Além disso, a falta de conhecimento sobre o uso das ferramentas digitais também prejudica a inclusão. Muitos idosos e pessoas com pouca escolaridade encontram dificuldades para utilizar serviços online, ficando excluídos de atividades importantes do cotidiano.
+
+Portanto, o Governo Federal, em parceria com empresas de tecnologia, deve ampliar o acesso à internet gratuita e oferecer cursos de capacitação digital em escolas e centros comunitários. Essas medidas devem garantir que mais brasileiros possam utilizar a tecnologia, reduzindo as desigualdades e promovendo uma sociedade mais inclusiva.`
+  }
+];
+
